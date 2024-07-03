@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09ba6f39-621e-4021-97d2-9feb02e516d7" name="Changes" comment="Primeiros códigos que faço sobre o livro 'Think Python'!">
-      <change afterPath="$PROJECT_DIR$/Exercícios 1.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios 1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios 1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios 1.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Exercícios 1.1.executor": "Run",
+    "Python.Exercícios 1.2.executor": "Run",
     "Python.Fast_Notes.executor": "Run",
     "Python.Hello, World!.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true"
@@ -64,7 +64,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720017203735</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Primeiros códigos que faço sobre o livro 'Think Python'!">
+      <option name="closed" value="true" />
+      <created>1720018391138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720018391138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
