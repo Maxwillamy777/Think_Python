@@ -1,6 +1,9 @@
 res1 = (60 * 42 + 42)
 print(f'1. Há {res1} segundos.')
-res2 = 10.000 / 1.610
+res2 = 10 * 0.62137119
 print(f'Terá {res2} milhas.')
-res3 = 10.000 / 600
-print(f'{res3}')
+res3 = 42 + 42/60
+res3b = res3 / res2
+res3c = 0.87 * 60
+res3d = 6.21371 / (47.7 / 60)
+print(f'Passo médio: {res3} minutos. A velocidade média: {res3d} milhas por horas.')
