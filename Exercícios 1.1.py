@@ -1,0 +1,6 @@
+print ('Respostas:')
+print('1. apararece esse bug:SyntaxError: Missing parentheses in call to print. Did you mean print(...)? Se omitir ambos os parênteses se for só aparece o seguinte: SyntaxError: ( was never closed')
+print('2. Dar bug se omitir uma das aspas onde aparece o SyntaxError: unterminated string literal. Mas se omitir ambas não resulta bug, ocorre corretamente a impresão.')
+print('3. Sim. Ocorre como se tivesse somente um sinal de adição e quando é subtração também resulta o mesmo resultado.')
+print('4. Resulta bug, como essa mensagem:SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers')
+print('5. Resulta bug: SyntaxError: invalid syntax. Perhaps you forgot a comma?')
